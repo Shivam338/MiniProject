@@ -2,11 +2,11 @@
 
 ## Table no: High level test plan
 
-| **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
-|-------------|--------------------------------------------------------------|-------------|-------------|----------------|------------------|
-|  H_01       |Reminder Check, to test whether the reminder notification works or not|  ------------|-------------|----------------|Requirement based |
-|  H_02       |--------------------------------------------------------------|  ------------|-------------|----------------|Scenario based    |
-|  H_03       |--------------------------------------------------------------|  ------------|-------------|----------------|Boundary based    |
+| **Test ID** | **Description**                                              | **Implementation**  |**Type Of Test**  |    
+|-------------|--------------------------------------------------------------|-------------|------------------|
+|  H_01       |Reminder Check, to test whether the reminder notification works or not|  Future||Requirement based |
+|  H_02       |Adding Event                                                  |  Future     | Scenario based    |
+|  H_03       |Editing and Removing Event                                    | Future |Scenario based    |
 
 ## Table no: Low level test plan
 
