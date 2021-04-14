@@ -1,39 +1,9 @@
 # Requirements
 ## Introduction
- --- TBD 
-
-## Research
-![Description](Link to Pic)
--- Content 
-## Cost and Features
-![Description](Link to Pic)
--- Content 
-## Defining Our System
-    -- TBD
-## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
-
-# 4W&#39;s and 1&#39;H
-
-## Who:
-
-**TBD**
-
-## What:
-
-**TBD**
-
-## When:
-
-**TBD**
-
-## Where:
-
-**TBD**
-
-## How:
-
-**TBD**
+ The Project is the implementation of a Simple Calendar. 
+ 
+## Feature
+The only feature here implemented is that it shows the dates the for any given year in a tabular form as shown in a real calendar.
 
 # Detail requirements
 ## High Level Requirements:
