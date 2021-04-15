@@ -1,8 +1,11 @@
-/** 
-* @file Calendar_Calc.h
-* 
-*
-*/
+/**
+ * @file CALENDAR_Calc.h
+ * @author Shivam Dogra
+ * @version 0.1
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #ifndef __CALENDAR_Calc_H__
 #define __CALENDAR_Calc_H__
 
