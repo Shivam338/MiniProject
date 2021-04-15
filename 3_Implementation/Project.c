@@ -41,17 +41,18 @@ int main()
 	int leapYears,count,scount;
 	int i=1;
 	long int dp;
-	do
-	{
-		printf("\nEnter the year: ");
-		scanf("%d",&yy);
-	}
-	while(yy<1);
-	
+
+	printf("\nEnter the year: ");
+	scanf("%d",&yy);
+	if(yy>=1900 && yy<=2900)
+	{		
 	do
 	{
 		printf("\nEnter the month: ");
 		scanf("%d",&mm);
+		if(mm<1 || mm>12){
+			printf("\nInvalid Month\n");
+		}
 	}
 	while(mm<1||mm>12);	
 	  	  
@@ -107,6 +108,10 @@ int main()
 	   	i++;
 	   	count+=4;
 	   } 
+	}
+	else {
+		printf("Invalid Year.");
+	}
 	   
 	  return 0;
 }
